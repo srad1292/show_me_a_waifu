@@ -1,0 +1,13 @@
+button {
+    margin-bottom: 3rem;
+}
+
+.image-container {
+    height: auto;
+    width: auto;
+}
+
+img {
+    max-width: 900px;
+    height: auto;
+}
